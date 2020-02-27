@@ -1,3 +1,3 @@
-first_number = log10
+first_number = 1
 
-second_number = 
+
